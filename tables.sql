@@ -1,3 +1,5 @@
+-- discord: veronikacizkova
+
 CREATE OR REPLACE TABLE t_veronika_cizkova_project_SQL_primary_final AS
 SELECT
 	a.code_food,
